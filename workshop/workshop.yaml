@@ -1,5 +1,4 @@
-name: Markdown Sample
-
+name: Hello World
 modules:
   activate:
   - workshop-overview
